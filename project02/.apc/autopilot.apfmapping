@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="matrixmul1.c" path="/autofs/fs1.ece/fs1.eecg.roman/rahulgulve/Documents/Acads/ECE1373_Digital_P_Chow/test/project02/.apc/matrixmul1.c"/>
+  </source>
+  <testbench/>
+</autopilotfilemapping:AutoPilotFileMapping>

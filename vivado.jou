@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sun Feb 11 15:49:57 2018
+# Process ID: 24635
+# Current directory: /autofs/fs1.ece/fs1.eecg.roman/rahulgulve/Documents/Acads/ECE1373_Digital_P_Chow/test
+# Command line: vivado
+# Log file: /autofs/fs1.ece/fs1.eecg.roman/rahulgulve/Documents/Acads/ECE1373_Digital_P_Chow/test/vivado.log
+# Journal file: /autofs/fs1.ece/fs1.eecg.roman/rahulgulve/Documents/Acads/ECE1373_Digital_P_Chow/test/vivado.jou
+#-----------------------------------------------------------
+start_gui
+create_project project_1 /autofs/fs1.ece/fs1.eecg.roman/rahulgulve/Documents/Acads/ECE1373_Digital_P_Chow/test/project_1 -part xcvu095-ffvc1517-2-e
